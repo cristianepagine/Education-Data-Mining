@@ -1,17 +1,22 @@
-EDM 1: Stages of an MDE project
-EDM 2:
-EDM 3:
-EDM 4:
-EDM 5:
+<h1 align="center">Educational Data Mining (EDM) </h1></br>
 
 
-About EDM:
+###Overview<br/>
+Educational Data Mining (EDM) is an emerging discipline dedicated to developing methods for exploring unique data derived from educational settings. The primary goal is to leverage computational approaches to better understand students and the learning environments they inhabit.
 
-Educational Data Mining is an emerging discipline, concerned with developing methods for exploring the unique types of data that come from educational settings, and using those methods to better understand students, and the settings in which they learn.
-The journal welcomes basic and applied papers describing mature work involving computational approaches of educational data mining. Specifically, it welcomes high-quality original work including but not limited to the following topics:
- 
-►Processes or methodologies followed to analyse educational data
-►Integrating data mining with pedagogical theories
-►Describing the way findings are used for improving educational software or teacher support
-►Improving understanding of learners' domain representations
-►improving assessment of learners' engagement in the learning tasks
+###Description<br/>
+This repository focuses on the field of EDM, welcoming both basic and applied papers that detail mature work involving computational approaches in educational data mining. The content covers a range of high-quality, original work, including but not limited to the following topics:<br/>
+
+Processes or Methodologies: <br/>
+- Exploration of approaches used to analyze educational data.<br/>
+- Integration with Pedagogical Theories: Discussing the fusion of data mining techniques with pedagogical theories.<br/>
+- Utilizing Findings for Improvement: Describing how research findings contribute to enhancing educational software or supporting teachers.<br/>
+- Enhancing Understanding of Learners' Domain Representations: Work aimed at improving comprehension of learners' domain representations.<br/>
+- Improving Assessment of Learners' Engagement: Exploring methods to enhance the assessment of learners' engagement in various learning tasks.<br/>
+
+###Project Topics<br/>
+EDM 1: Stages of an MDE Project<br/>
+EDM 2:<br/>
+EDM 3:<br/>
+EDM 4:<br/>
+EDM 5:<br/>
