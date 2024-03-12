@@ -16,7 +16,7 @@ Processes or Methodologies: <br/>
 
 ###Project Topics<br/>
 EDM 1: Stages of an MDE Project<br/>
-EDM 2:<br/>
+EDM 2: Prediction of which students will pass, with data normalization using MinMaxScaler, results with Acuracy, Recall, F1, Precision<br/>
 EDM 3:<br/>
 EDM 4:<br/>
 EDM 5:<br/>
